@@ -1,0 +1,1 @@
+This repository contains all the Python exercises that I undertake daily. It covers the fundamental concepts of Pythonic code. Explore!
